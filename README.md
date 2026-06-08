@@ -14,7 +14,7 @@ Implementation of Linear Regression and Logistic Regression from scratch using N
 - Confusion Matrix Evaluation
 
 ## Dataset
-Housing.csv — contains features like area, bedrooms, bathrooms, furnishing status, etc.
+Housing.csv contains features like area, bedrooms, bathrooms, furnishing status, etc.
 
 ## How to Run
 1. Open the `.ipynb` file in Google Colab or Jupyter Notebook
